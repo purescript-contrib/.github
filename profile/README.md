@@ -1,8 +1,8 @@
 # PureScript Contributors
 
-The Contributors organization maintains useful libraries and tools on behalf of the PureScript community. 
+The Contributors organization maintains useful libraries and tools on behalf of the PureScript community.
 
-The Contributors organization was started by PureScript core members, industrial Purescript users, and individuals to create and maintain commonly-used libraries for the PureScript ecosystem. It can be seen as an extension of the official PureScript organization which is less selective about membership and which is open to a broader set of libraries.
+The Contributors organization was started by PureScript core members, industrial PureScript users, and individuals maintain commonly-used libraries. It can be seen as an extension of the official PureScript organization which is less selective about membership and which is open to a broader set of libraries.
 
 The Contributors organization is also a great way for newcomers to PureScript to get their start contributing to open source in PureScript. One of our goals is to encourage new members of the community to feel welcome contributing to the ecosystem.
 
