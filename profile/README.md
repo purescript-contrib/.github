@@ -1,6 +1,6 @@
 The Contributors organization was started by PureScript core members and PureScript users to maintain libraries held in common. It is open to a larger membership and set of libraries than the [PureScript core organization](https://github.com/purescript). 
 
-The Contributors organization is a great way to start contributing to PureScript. We welcome new members of the community to contribute to the ecosystem.
+The Contributors organization is a great way to start contributing to PureScript. We welcome new members of the community.
 
 The [governance](https://github.com/purescript-contrib/governance) repository contains discussion and guides, including:
 
